@@ -3,5 +3,5 @@ User-Agent: *
 Disallow:
 
 
-Sitemap: https://pin-up.quadbikedesert.xyz/sitemap.xml
-Host: pin-up.quadbikedesert.xyz
+Sitemap: https://pin-up.snowboardcompetition.click/sitemap.xml
+Host: pin-up.snowboardcompetition.click
